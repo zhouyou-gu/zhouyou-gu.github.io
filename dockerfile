@@ -1,39 +1,20 @@
-FROM ruby:latest
-ENV DEBIAN_FRONTEND noninteractive
+FROM ruby:latest as jekyll
 
-RUN apt-get update -y && apt-get install -y --no-install-recommends \
-    locales \
-    imagemagick \
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ruby-dev\
+    ruby-bundler\
+    nodejs\
     build-essential \
-    zlib1g-dev \
-    jupyter-nbconvert \
-    inotify-tools procps && \
-    apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
-
-
-RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
-    locale-gen
-
-
-ENV LANG=en_US.UTF-8 \
-    LANGUAGE=en_US:en \
-    LC_ALL=en_US.UTF-8 \
-    JEKYLL_ENV=production
+    git
 
 RUN mkdir /srv/jekyll
 
-ADD Gemfile.lock /srv/jekyll
 ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
 
-# install jekyll and dependencies
-RUN gem install jekyll bundler
-
-RUN bundle install --no-cache
+RUN bundle install 
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
-COPY entry_point.sh /tmp/entry_point.sh
-
-CMD ["/tmp/entry_point.sh"]
+CMD ["jekyll", "serve", "-l", "-H", "0.0.0.0", "-P", "8080" ]
