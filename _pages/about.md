@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a reasdfsaffor academic personal websites"
+title: "Academhello demic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
