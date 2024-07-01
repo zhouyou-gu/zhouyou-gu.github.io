@@ -1,10 +1,17 @@
 services:
   jekyll:
     image: jekyll/jekyll:latest 
-    command: jekyll serve --watch --force_polling --verbose
+    command: bash -c "bundle install && bundle update && jekyll serve --config _config.yml,_config_dev.yml --watch --force_polling --verbose --host 0.0.0.0" 
     environment:
-      - JEKYLL_ENV=dev
+      - JEKYLL_ENV=production
     ports:
       - 4000:4000
+    networks:
+      - jekyll_network
     volumes:
       - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+
+networks:
+  jekyll_network:
+    driver: bridge
