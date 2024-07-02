@@ -62,7 +62,3 @@ I have proudly collected national-wise and university-wise scholarships, includi
 - the Postgraduate Research Supplementary Scholarship in Online Machine Learning for Next Generation Autonomous IoT Networks, 2020
 - the Postgraduate Research Supplementary Scholarship in Development of AI Schedulers for Satellite Networks, 2021
 - the Postgraduate Completion Scholarship in Development of Resource Allocation Techniques for Long Range IEEE 802.11ah System, 2022
-
-
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SziagETBk219sQez8K2SiqL4EHYtT4eGZc3wRtv6DhM"></script>
