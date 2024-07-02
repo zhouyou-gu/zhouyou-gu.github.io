@@ -11,7 +11,7 @@ redirect_from:
 
 (M,IEEE) I received the B.E. (Hons.) and M.Phil. degrees from The University of Sydney (USYD), Australia, in 2016 and 2019, respectively, and the Ph.D. degree from [Centre for IoT and Telecommunications](https://www.sydney.edu.au/engineering/our-research/internet-of-things/centre-for-iot-and-telecommunications.html) at the School of Electrical and Information Engineering, USYD, in 2023.
 
-Throughout my studies, I was fortunate to work under the supervision of [Dr. Wibowo Hardjawana](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wibowo-hardjawana.html) and [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html), which provided me with invaluable insights and guidance in my research endeavors. My Ph.D. thesis focuses on ["Scheduler Designs in Wireless Networks"](https://hdl.handle.net/2123/31508) and my works are published in prestigious journals and conferences, e.g., TON, JSAC and TWC etc.
+Throughout my studies, I was fortunate to work under the supervision of [Dr. Wibowo Hardjawana](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wibowo-hardjawana.html) and [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html), which provided me with invaluable guidance in my research endeavors. My Ph.D. thesis focuses on ["Scheduler Designs in Wireless Networks"](https://hdl.handle.net/2123/31508) and my works are published in prestigious journals and conferences, e.g., TON, JSAC and TWC etc.
 
 My research interests span in machine learning and graph theory in wireless networks.
 
