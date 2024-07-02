@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Hello, welcome to Zhouyou Gu's website!"
-excerpt: 'Hello, welcome to Zhouyou Gu's website!'
 author_profile: true
 redirect_from: 
   - /about/
