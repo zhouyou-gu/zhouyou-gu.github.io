@@ -25,7 +25,7 @@ My research has contributed to the advancement of wireless network technologies,
 
 ### Algorithms
 
-Algorithms have been designed in my research to address challenges in different aspects of network optimizations.
+Algorithms have been designed in my research to address challenges in different aspects of networks.
 
 - **AC-GRL** enables flexible network-wise coordination by embedding neural networks in graph theory methods. [Paper](https://arxiv.org/pdf/2402.00879)\
 <span style="background-color: #AED6F1;">🎯*To the best of our knowledge, this is the first work to train neural networks to construct the optimal graph representing the impact of interference in a wireless network.*</span>
