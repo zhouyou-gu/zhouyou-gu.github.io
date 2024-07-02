@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Engineering"
   location         : "Sydney, Australia"
-  employer         : "The University of Sydney"
+  employer         : 
   uri              : # URL
   email            : "guzhouyou@gmail.com" 
 
@@ -75,7 +75,7 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : bio_zg_resized.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
