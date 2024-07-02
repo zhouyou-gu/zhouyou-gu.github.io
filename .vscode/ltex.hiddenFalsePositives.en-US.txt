@@ -1,0 +1,1 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMy research interests span along with machine learning and graph theory in wireless networks.\\E$"}
