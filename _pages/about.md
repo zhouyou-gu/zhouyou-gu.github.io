@@ -44,7 +44,7 @@ My research also involves network system architecture designs.
 <span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first implementation to use a neural network to schedule transmissions per transmission time interval in a real-world RAN and simultaneously fine-tune the neural network's weights.*</span>
 
 - **OPSCH**, a vendor-neutral programming interface for schedulers in 5G networks, prototyped using OpenAirInterface and srsRAN. [Paper](https://ieeexplore.ieee.org/abstract/document/9120582)\
-<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first programming interface that can online update the scheduler in RANs without interrupting the services.*</span>
+<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first programming interface that can online update the scheduler logics in RANs without interrupting the services.*</span>
 
 - **M-AP**, a multi-tenant virtualization architecture with channel and beacon controls in Wi-Fi, prototyped using WARP SDR Platform. [Paper](https://ieeexplore.ieee.org/abstract/document/8407005)
 
