@@ -15,6 +15,8 @@ Throughout my studies, I was fortunate to work under the supervision of [Dr. Wib
 
 My research interests span in machine learning and graph theory in wireless networks.
 
+*Collaborations from both industry and academia are highly welcomed. If you are interested in my researches, feel free to reach out!*
+
 <span style="background-color: yellow;">I am actively looking for a postdoc position in relevant research areas.</span>
 
 ## Research Outputs
@@ -60,3 +62,7 @@ I have proudly collected national-wise and university-wise scholarships, includi
 - the Postgraduate Research Supplementary Scholarship in Online Machine Learning for Next Generation Autonomous IoT Networks, 2020
 - the Postgraduate Research Supplementary Scholarship in Development of AI Schedulers for Satellite Networks, 2021
 - the Postgraduate Completion Scholarship in Development of Resource Allocation Techniques for Long Range IEEE 802.11ah System, 2022
+
+
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SziagETBk219sQez8K2SiqL4EHYtT4eGZc3wRtv6DhM"></script>
