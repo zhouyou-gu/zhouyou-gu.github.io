@@ -52,7 +52,7 @@ My research also involves network system architecture designs.
 
 I am honored to have had collaborations with colleagues from
 
-- **Morse Micro** (A fabless semiconductor startup): Together, we investigated the interference management using restricted access window (RAW) in Wi-Fi Halow Networks. (2022-2023)
+- **Morse Micro** (A fabless semiconductor startup): Together, we investigated the interference management using restricted access window (RAW) in Wi-Fi Halow networks. (2022-2023)
 
 - **SmartSatCRC** (Australia's leading space research center): Together, we investigated advanced satellite communications for high rate and dynamic service delivery. (2020)
 
