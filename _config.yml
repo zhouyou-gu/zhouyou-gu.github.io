@@ -75,7 +75,7 @@ author:
 
 
 # Site Settings
-teaser                   : bio_zg_resized.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "bio_zg_resized.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
