@@ -29,7 +29,7 @@ Algorithms have been designed in my research to address challenges in different 
 
 - **AC-GRL** enables flexible network-wise coordination by embedding neural networks in graph theory methods. [Paper](https://arxiv.org/pdf/2402.00879)
 - **MVWO** accelerates convergence of scheduling policy using statistical information, e.g., mean and variance of network states. [Paper](https://arxiv.org/pdf/2402.08238)
-- **K-DDPG** improves Quality of Service of reinforcement learning in networks by integrating domain-expert knowledge. [Paper](https://arxiv.org/pdf/2009.08346)
+- **K-DDPG** improves quality of service of reinforcement learning in networks by integrating domain-expert knowledge. [Paper](https://arxiv.org/pdf/2009.08346)
 
 ### Architectures
 
