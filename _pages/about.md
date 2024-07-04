@@ -29,7 +29,7 @@ My research has contributed to the advancement of wireless network technologies,
 Algorithms have been designed in my research to address challenges in different aspects of networks.
 
 - **AC-GRL** enables flexible network-wise coordination by embedding neural networks in graph theory methods. [Paper](https://arxiv.org/pdf/2402.00879)\
-<span style="background-color: #AED6F1;">🎯*To the best of our knowledge, this is the first work to train neural networks to construct the optimal graph representing the impact of interference in a wireless network.*</span>
+<span style="background-color: #AED6F1;">🎯*To the best of our knowledge, this is the first work to train neural networks to flexibly construct the optimal graph representing the impact of interference on specific network performance.*</span>
 
 - **MVWO** accelerates convergence of scheduling policy using statistical information, e.g., mean and variance of network states. [Paper](https://arxiv.org/pdf/2402.08238)
 
