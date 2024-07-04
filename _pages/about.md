@@ -42,7 +42,7 @@ My research also involves network system architecture designs.
 - **ac-grl-wi-fi**, a gym-like simulation platform for network-wise time-slot allocation algorithms in Wi-Fi, prototyped using NS-3. [Github](https://github.com/zhouyou-gu/ac-grl-wi-fi)
 
 - **drl-5g-scheduler**, an online neural network fine-tuning archiecture for 5G radio access networks (RANs), operating at per millisecond level, prototyped using srsRAN, USRP Software Defined Radio (SDR) and Nvidia GPU. [Github](https://github.com/zhouyou-gu/drl-5g-scheduler)\
-<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first implementation to use a neural network to schedule transmissions per transmission time interval in a real-world RAN and simultaneously fine-tune the neural network's weights.*</span>
+<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first implementation to use a neural network to schedule transmissions per transmission time interval in a real-world RAN and simultaneously fine-tune the neural network's weights online.*</span>
 
 - **OPSCH**, a vendor-neutral programming interface for schedulers in 5G networks, prototyped using OpenAirInterface and srsRAN. [Paper](https://ieeexplore.ieee.org/abstract/document/9120582)\
 <span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first programming interface that can online update the scheduler logics in RANs without interrupting the services.*</span>
