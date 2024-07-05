@@ -18,7 +18,7 @@ My research interests span in machine learning and graph theory in wireless netw
 
 🤝*Collaborations from both industry and academia are highly welcomed. If you are interested in my researches, feel free to reach out!*
 
-<span style="background-color: yellow;">📢I am actively looking for a research position in relevant topics.</span>
+<!-- <span style="background-color: yellow;">📢I am actively looking for a research position in relevant topics.</span> -->
 
 ## Research Outputs
 
