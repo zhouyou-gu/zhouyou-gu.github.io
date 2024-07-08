@@ -51,7 +51,7 @@ My research also involves network system architecture designs.
 
 ## Collaborations
 
-I am honored to have had collaborations with colleagues from
+It is my honor to have had collaborations with colleagues from
 
 - **Morse Micro** (A fabless semiconductor startup): Together, we investigated the interference management using restricted access window (RAW) in Wi-Fi Halow networks. (2022-2023)
 
