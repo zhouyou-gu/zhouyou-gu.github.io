@@ -25,12 +25,12 @@ The papers can be also found in Google Scholar [here](https://scholar.google.com
 
 - **Z Gu**, C She, W Hardjawana, S Lumb, D McKechnie, T Essery, B Vucetic, Knowledge-Assisted Deep Reinforcement Learning in 5G Scheduler Design: From Theoretical Framework to Implementation, in IEEE Journal on Selected Areas in Communications, 2021.
 
-- C She, C Sun, **Z Gu** et al, A Tutorial on Ultra-Reliable and Low-Latency Communications in 6G: Integrating Domain Knowledge into Deep Learning, in Proceedings of the IEEE, 2021
+- C She, C Sun, **Z Gu** et al, A Tutorial on Ultra-Reliable and Low-Latency Communications in 6G: Integrating Domain Knowledge into Deep Learning, in Proceedings of the IEEE, 2021.
 
 - C She, R Dong, **Z Gu** et al, Deep Learning for Ultra-Reliable and Low-Latency Communications in 6G Networks, in IEEE Network, 2020.
 
 ## Conferences
 
-- W Zhang, **Z Gu**, W Hardjawana, B Vucetic et al, A Real-Time Vendor-Neutral Programmable Scheduler Architecture for Cellular Networks, in IEEE WCNC, 2020
+- W Zhang, **Z Gu**, W Hardjawana, B Vucetic et al, A Real-Time Vendor-Neutral Programmable Scheduler Architecture for Cellular Networks, in IEEE WCNC, 2020.
 
-- **Z Gu**, W Hardjawana, B Vucetic, LS Ho, Multi-tenant spectrum and SSIDs controller for Wi-Fi networks, in IEEE INFOCOM Workshops, 2018.
+- **Z Gu**, W Hardjawana, B Vucetic, LS Ho, Multi-Tenant Spectrum and SSIDs Controller for Wi-Fi Networks, in IEEE INFOCOM Workshops, 2018.
