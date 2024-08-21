@@ -34,7 +34,7 @@ Algorithms have been designed in my research to address challenges in different 
 <span style="background-color: #AED6F1;">🎯*To the best of our knowledge, this is the first work to train neural networks to flexibly construct the optimal graph representing the impact of interference on specific network performance.*</span>
 
 - **MVWO** accelerates convergence of scheduling policy using statistical information, e.g., mean and variance of network states. [Paper](https://arxiv.org/pdf/2402.08238)\
-<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first work to accelerate max-weight schedulers' convergence using limited prior knowledge of statistical channel state information, e.g., the mean and variance of users’ channel states, that costs few samples to estimate.*</span>
+<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first work to accelerate max-weight schedulers' convergence using limited prior knowledge of statistical channel state information, e.g., the mean and variance of users’ channel states, that costs only few samples to estimate.*</span>
 
 
 - **K-DDPG** improves quality of service of reinforcement learning in networks by integrating domain-expert knowledge. [Paper](https://arxiv.org/pdf/2009.08346)\
