@@ -16,7 +16,7 @@ Throughout my studies, I was fortunate to work under the supervision of [Dr. Wib
 
 I was a research assistant of [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html) at USYD in 2023 and am currently a causal research fellow of [Prof. Jinho Choi](https://experts.deakin.edu.au/45933-jinho-choi) at Deakin University and will be joining Singapore University of Technology and Design (SUTD) soon as a research fellow of [Prof. Jihong Park](https://sites.google.com/view/jihong-park).
 
-My research interests span in machine learning and graph theory in wireless networks.
+My research interests span in graph theory and machine learning in wireless networks.
 
 🤝*Collaborations from both industry and academia are highly welcomed. If you are interested in my researches, feel free to reach out!*
 
@@ -33,15 +33,22 @@ Algorithms have been designed in my research to address challenges in different 
 - **AC-GRL** enables flexible network-wise coordination by embedding neural networks in graph theory methods. [Paper](https://arxiv.org/pdf/2402.00879)\
 <span style="background-color: #AED6F1;">🎯*To the best of our knowledge, this is the first work to train neural networks to flexibly construct the optimal graph representing the impact of interference on specific network performance.*</span>
 
-- **MVWO** accelerates convergence of scheduling policy using statistical information, e.g., mean and variance of network states. [Paper](https://arxiv.org/pdf/2402.08238)
+- **MVWO** accelerates convergence of scheduling policy using statistical information, e.g., mean and variance of network states. [Paper](https://arxiv.org/pdf/2402.08238)\
+<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first work to accelerate max-weight schedulers' convergence using limited prior knowledge of statistical channel state information, e.g., the mean and variance of users’ channel states, that costs few samples to estimate.*</span>
 
-- **K-DDPG** improves quality of service of reinforcement learning in networks by integrating domain-expert knowledge. [Paper](https://arxiv.org/pdf/2009.08346)
+
+- **K-DDPG** improves quality of service of reinforcement learning in networks by integrating domain-expert knowledge. [Paper](https://arxiv.org/pdf/2009.08346)\
+<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first work to provide an end-to-end solution of a deep-reinforcement-learning-based scheduler design in cellular networks from theoretical formulation to a real-time prototype.*</span>
+
+
 
 ### Architectures
 
 My research also involves network system architecture designs.  
 
-- **ac-grl-wi-fi**, a gym-like simulation platform for network-wise time-slot allocation algorithms in Wi-Fi, prototyped using NS-3. [Github](https://github.com/zhouyou-gu/ac-grl-wi-fi)
+- **ac-grl-wi-fi**, a gym-like simulation platform for network-wise time-slot allocation algorithms in Wi-Fi, prototyped using NS-3. [Github](https://github.com/zhouyou-gu/ac-grl-wi-fi)\
+<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first gym-like simulation platform for machine-learning-based slot-allocation in Wi-Fi.*</span>
+
 
 - **drl-5g-scheduler**, an online neural network fine-tuning archiecture for 5G radio access networks (RANs), operating at per millisecond level, prototyped using srsRAN, USRP Software Defined Radio (SDR) and Nvidia GPU. [Github](https://github.com/zhouyou-gu/drl-5g-scheduler)\
 <span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first implementation to use a neural network to schedule transmissions per transmission time interval in a real-world RAN and simultaneously fine-tune the neural network's weights online.*</span>
@@ -49,7 +56,9 @@ My research also involves network system architecture designs.
 - **OPSCH**, a vendor-neutral programming interface for schedulers in 5G networks, prototyped using OpenAirInterface and srsRAN. [Paper](https://ieeexplore.ieee.org/abstract/document/9120582)\
 <span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the first programming interface that can online update the scheduler logics in RANs without interrupting the services.*</span>
 
-- **M-AP**, a multi-tenant virtualization architecture with channel and beacon controls in Wi-Fi, prototyped using WARP SDR Platform. [Paper](https://ieeexplore.ieee.org/abstract/document/8407005)
+- **M-AP**, a multi-tenant virtualization architecture with channel and beacon controls in Wi-Fi, prototyped using WARP SDR Platform. [Paper](https://ieeexplore.ieee.org/abstract/document/8407005)\
+<span style="background-color: #AED6F1;"> 🎯*To the best of our knowledge, this is the implementation considering interference information for joint overlapping channel and service set identifier allocation in a multi-tenant Wi-Fi networks.*</span>
+
 
 ## Collaborations
 
