@@ -14,7 +14,7 @@ redirect_from:
 
 Throughout my studies, I was fortunate to work under the supervision of [Dr. Wibowo Hardjawana](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wibowo-hardjawana.html) and [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html), which provided me with invaluable guidance in my research endeavors. My Ph.D. thesis focuses on ["Scheduler Designs in Wireless Networks"](https://hdl.handle.net/2123/31508) and my works are published in prestigious journals and conferences, e.g., TON, JSAC and TWC etc.
 
-I was a research assistant of [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html) at USYD in 2023 and am currently a causal reseach fellow 
+I was a research assistant of [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html) at USYD in 2023 and am currently a causal research fellow of [Prof. Jinho Choi](https://experts.deakin.edu.au/45933-jinho-choi) at Deakin University and will be joining Singapore University of Technology and Design (SUTD) soon as a research fellow of [Prof. Jihong Park](https://sites.google.com/view/jihong-park).
 
 My research interests span in machine learning and graph theory in wireless networks.
 
