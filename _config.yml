@@ -25,7 +25,7 @@ author:
   name             : "Zhouyou Gu (Charles)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Engineering"
-  location         : "Sydney, Australia"
+  location         : "Singapore"
   employer         : 
   uri              : # URL
   email            : "guzhouyou@gmail.com" 
@@ -282,7 +282,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
