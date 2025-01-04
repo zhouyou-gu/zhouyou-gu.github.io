@@ -10,6 +10,8 @@ redirect_from:
 
 ## Biography
 
+My research explores the intersection of graph theory and artificial intelligence to advance wireless networks.
+
 (M,IEEE) I am currently a research fellow of [Prof. Jihong Park](https://sites.google.com/view/jihong-park) at the Singapore University of Technology and Design (SUTD). I was a research fellow of [Prof. Jinho Choi](https://experts.deakin.edu.au/45933-jinho-choi) at Deakin University in 2024 and was a research assistant of [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html) at the University of Sydney (USYD) in 2023. I obtained my Ph.D. degree from [Centre for IoT and Telecommunications](https://www.sydney.edu.au/engineering/our-research/internet-of-things/centre-for-iot-and-telecommunications.html) at the School of Electrical and Information Engineering, USYD, Australia, in 2023, where I also obtained the B.E. (Hons.) and the M.Phil. degrees from USYD in 2016 and 2019, respectively. Throughout my studies, I was fortunate to work under the supervision of [Dr. Wibowo Hardjawana](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wibowo-hardjawana.html) and [Prof. Branka Vucetic](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/branka-vucetic.html), which provided me with invaluable guidance in my research endeavors. My Ph.D. thesis focuses on ["Scheduler Designs in Wireless Networks"](https://hdl.handle.net/2123/31508) and my works are published in prestigious journals and conferences, e.g., TON, JSAC and TWC etc.
 
 It is also my honor to have had collaborations with colleagues from
@@ -20,7 +22,6 @@ It is also my honor to have had collaborations with colleagues from
 
 - **Telstra** (Australia's largest telecommunications company): Together, we investigated open programmable schedulers of 4G/5G networks and open radio access networks (O-RANs). (2018-2019)
 
-My current research interests span in graph theory and machine learning in wireless networks.
 
 🤝🤝 *Collaborations from both academia and industry are highly welcomed. If you are interested in my researches, feel free to reach out!* 🤝🤝
 
