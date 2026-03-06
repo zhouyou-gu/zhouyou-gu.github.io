@@ -109,7 +109,7 @@ I am **Zhouyou Gu (Charles)**, a **Research Fellow** at the **Singapore Universi
 
 - **Z. Gu**, J. Choi, T. Q. S. Quek, and J. Park, "Duality-Guided Graph Learning for Real-Time Joint Connectivity and Routing in LEO Mega-Constellations," arXiv preprint [arXiv:2601.21921](https://arxiv.org/abs/2601.21921), 2026.
 - **Z. Gu**, J. Park, and J. Choi, "Joint Laser Inter-Satellite Link Matching and Traffic Flow Routing in LEO Mega-Constellations via Lagrangian Duality," arXiv preprint [arXiv:2601.21914](https://arxiv.org/abs/2601.21914), 2026.
-- **Z. Gu**, J. Park, and J. Choi, "ScNeuGM: Scalable Neural Graph Modeling for Coloring-Based Contention and Interference Management in Wi-Fi 7," arXiv preprint [arXiv:2502.03300](https://arxiv.org/abs/2502.03300), 2025.
+- **Z. Gu**, J. Park, and J. Choi, "Scalable Interference Graph Learning for Low-Latency Wi-Fi Networks using Hashing-based Evolution Strategy," arXiv preprint [arXiv:2502.03300](https://arxiv.org/abs/2502.03300), 2025.
 - **Z. Gu**, J. Park, B. Vucetic, and J. Choi, "SIG-SDP: Sparse Interference Graph-Aided Semidefinite Programming for Large-Scale Wireless Time-Sensitive Networking," arXiv preprint [arXiv:2501.11307](https://arxiv.org/abs/2501.11307), 2025.
 
 ### Published/Accepted Papers
