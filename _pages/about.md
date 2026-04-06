@@ -96,6 +96,8 @@ I am **Zhouyou Gu (Charles)**, a **Research Fellow** at the **Singapore Universi
 
 ## Invited Talks
 
+- 2026: Beijing University of Posts and Telecommunications (BUPT)
+  Title: Large-Scale Graph Learning From Terrestrial to Non-Terrestrial Networks
 - 2026: Australian Communication Theory Workshop
   Title: Learning Large-Scale Time-Varying Graphs for Laser Inter-Satellite Link Management in LEO Mega-Constellations
 - 2025: IEEE SA Workshop on Semantic Communication and AI-RAN for 6G

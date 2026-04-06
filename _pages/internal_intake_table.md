@@ -139,6 +139,7 @@ This document contains structured tables with factual information for the CV. Th
 
 | Year | Venue  | Title | Type (invited/regular) | Audience (researchers/industry/students) | Notes |
 |---|---|---|---|---|---|
+| 2026 | Beijing University of Posts and Telecommunications (BUPT) | Large-Scale Graph Learning From Terrestrial to Non-Terrestrial Networks | invited | researchers and students |  |
 | 2026 | Australian Communication Theory Workshop, 2026 | Learning Large-Scale Time-Varying Graphs for Laser Inter-Satellite Link Management in LEO Mega-Constellations | invited | researchers, industry, and students |  |
 | 2025 | IEEE SA Workshop on Semantic Communication and AI-RAN for 6G, 2025 | Scalable and Flexible Graph-Based Interference Management in Large Wireless Networks | invited | researchers and students |  |
 | 2025 | SUTD FCCLab Internal Seminar | Implementing Online Deep Reinforcement Learning for Real-Time Media Access Control Scheduling in Radio Access Networks | invited | researchers and students |  |
