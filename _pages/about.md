@@ -16,7 +16,7 @@ I am **Zhouyou Gu (Charles)**, a **Research Assistant Professor** with [Prof. Ji
 
 ## Appointments
 
-- Jul 2026-Present: Research Assistant Professor with Prof. Jihong Park, Singapore University of Technology and Design, Singapore (promoted from Research Fellow)
+- Jul 2026-Present: Research Assistant Professor with Prof. Jihong Park, Singapore University of Technology and Design, Singapore
 - Nov 2024-Jun 2026: Research Fellow, Singapore University of Technology and Design, Singapore (with Prof. Jihong Park)
 - Aug 2024-Oct 2024: Research Fellow, Deakin University, Australia (with Prof. Jinho Choi)
 - Sep 2023-Dec 2023: Research Assistant, The University of Sydney, Australia (with Prof. Branka Vucetic)
