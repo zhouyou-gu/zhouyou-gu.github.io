@@ -37,7 +37,8 @@ This document contains structured tables with factual information for the CV. Th
 
 | Start | End | Role | Institution | Group/Lab | Location | Notes (2 bullets max) |
 |---|---|---|---|---|---|---|
-| Nov 2024 | Present | Research Fellow → Research Assistant Professor | Singapore University of Technology and Design | with Prof. Jihong Park | Singapore | Joined SUTD in Nov 2024; current title is Research Assistant Professor. |
+| Jul 2026 | Present | Research Assistant Professor | Singapore University of Technology and Design | with Prof. Jihong Park | Singapore | Promoted from Research Fellow in July 2026. |
+| Nov 2024 | Jun 2026 | Research Fellow | Singapore University of Technology and Design | with Prof. Jihong Park | Singapore | |
 | Aug 2024 | Oct 2024 | Research Fellow | Deakin University | with Prof. Jinho Choi | Australia | |
 | Sept 2023 | Dec 2023 | Research Assistant | The University of Sydney | with Prof. Branka Vucetic | Australia | |
 

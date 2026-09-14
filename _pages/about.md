@@ -10,13 +10,14 @@ redirect_from:
 
 ## About Me
 
-I am **Zhouyou Gu (Charles)**, a **Research Assistant Professor** at the **Singapore University of Technology and Design (SUTD)**, working with [Prof. Jihong Park](https://sites.google.com/view/jihong-park).
+I am **Zhouyou Gu (Charles)**, a **Research Assistant Professor** with [Prof. Jihong Park](https://sites.google.com/view/jihong-park) at the **Singapore University of Technology and Design (SUTD)**.
 
 (M, IEEE) My research focuses on **wireless networking systems**, especially scheduler and protocol design using **graph representation learning**, **reinforcement learning**, and **knowledge-assisted learning**. I work across algorithm design, real-time prototyping, and programmable network architectures for Wi-Fi, cellular, and LEO-terrestrial systems.
 
 ## Appointments
 
-- Nov 2024-Present: Singapore University of Technology and Design, Singapore — currently Research Assistant Professor (previously Research Fellow; with Prof. Jihong Park)
+- Jul 2026-Present: Research Assistant Professor with Prof. Jihong Park, Singapore University of Technology and Design, Singapore (promoted from Research Fellow)
+- Nov 2024-Jun 2026: Research Fellow, Singapore University of Technology and Design, Singapore (with Prof. Jihong Park)
 - Aug 2024-Oct 2024: Research Fellow, Deakin University, Australia (with Prof. Jinho Choi)
 - Sep 2023-Dec 2023: Research Assistant, The University of Sydney, Australia (with Prof. Branka Vucetic)
 
